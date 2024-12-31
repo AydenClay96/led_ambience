@@ -22,3 +22,14 @@ In the future the following are necessary steps to incorporate this into a real 
 
 In the future the following are attractive steps to make the real system more functional.
 - [ ] More sophisticated mechanisms for determining the light that an LED ought to emit (bright or dark, smooth large color differences between frames, etc.)
+
+# Examples
+
+On an arbitrary screen made up of 900 pixels (30x30) with 100 LED's using the nearest neighbour to determine LED colour.
+![6045s3030r100n1N](https://github.com/user-attachments/assets/86311fb8-3c19-4c9c-a296-8b0cb5e75273)
+
+On an arbitrary screen made up of 900 pixels (30x30) with 100 LED's using the average of the 50 nearest neighbours to determine LED colour.
+![6045s3030r100n50N](https://github.com/user-attachments/assets/b2f778ce-4b75-408b-b77b-85d53177275e)
+
+On an arbitrary screen made up of 900 pixels (30x30) with 1000 LED's using the average of the 50 nearest neighbours to determine LED colour.
+![6045s3030r100n1N](https://github.com/user-attachments/assets/86311fb8-3c19-4c9c-a296-8b0cb5e75273)
