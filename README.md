@@ -4,14 +4,14 @@ This project aims to take in HDMI source and output coordinates or in some way l
 
 # Objective
 
-- [ ] To have a basic testing facility for the above.
+- [x] To have a basic testing facility for the above.
 This includes:
-- [ ] Generateable "screen" that plots out and is a `length` x `height` rectangle made up of `x` x `y` pixels of the appropriate size.
-- [ ] Generateable "strip" that plots around the edge of the above screen a configurable number of `n` LED's (colored dots).
-- [ ] The color of the dots will be in some way selected from the colour of the pixels around it.
+- [x] Generateable "screen" that plots out and is a `length` x `height` rectangle made up of `x` x `y` pixels of the appropriate size.
+- [x] Generateable "strip" that plots around the edge of the above screen a configurable number of `n` LED's (colored dots).
+- [x] The color of the dots will be in some way selected from the colour of the pixels around it.
 This could be by:
-- [ ] Nearest neighbour (match the colour of the nearest pixel).
-- [ ] N-nearest neighbour (average the colours of the nearest `N` pixels).
+- [x] Nearest neighbour (match the colour of the nearest pixel).
+- [x] N-nearest neighbour (average the colours of the nearest `N` pixels).
 
 # Future
 
