@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "led-ambience"
+version = "0.1.0"
+description = ""
+authors = ["AydenClay96 <AydenClay1996@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+matplotlib = "^3.10.0"
+numpy = "^2.2.1"
+black = "^24.10.0"
+flake8 = "^7.1.1"
+isort = "^5.13.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
