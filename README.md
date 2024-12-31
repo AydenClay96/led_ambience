@@ -29,7 +29,8 @@ On an arbitrary screen made up of 900 pixels (30x30) with 100 LED's using the ne
 ![6045s3030r100n1N](https://github.com/user-attachments/assets/86311fb8-3c19-4c9c-a296-8b0cb5e75273)
 
 On an arbitrary screen made up of 900 pixels (30x30) with 100 LED's using the average of the 50 nearest neighbours to determine LED colour.
-![6045s3030r100n50N](https://github.com/user-attachments/assets/b2f778ce-4b75-408b-b77b-85d53177275e)
+![6045s3030r100n50N](https://github.com/user-attachments/assets/e6585be5-d3a9-43eb-9fab-56448a008a23)
 
 On an arbitrary screen made up of 900 pixels (30x30) with 1000 LED's using the average of the 50 nearest neighbours to determine LED colour.
-![6045s3030r100n1N](https://github.com/user-attachments/assets/86311fb8-3c19-4c9c-a296-8b0cb5e75273)
+![6045s3030r1000n50N](https://github.com/user-attachments/assets/44be4194-37bd-4041-91d7-b2f61c65f776)
+
