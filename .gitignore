@@ -1,0 +1,4 @@
+/test
+/.mypy_cache
+poetry.lock
+/__pycache__
