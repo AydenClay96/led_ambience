@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
-from generate_screen import Screen
-from generate_strip import LEDStrip
+from led_ambience.generate_screen import Screen
+from led_ambience.generate_strip import LEDStrip
 
 
 def main() -> None:

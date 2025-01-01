@@ -6,7 +6,7 @@ from typing import List
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
-from generate_screen import Pixel
+from led_ambience.generate_screen import Pixel
 
 
 class LEDStrip():
