@@ -26,9 +26,9 @@ class Screen():
     def __init__(self, size: List[float], resolution: List[int]) -> None:
         self.size = size
         self.resolution = resolution
-        self.initialize_locs()
+        self.initialize_pixels()
 
-    def initialize_locs(self) -> None:
+    def initialize_pixels(self) -> None:
         """Initialize the pixel locations"""
         a, b = self.size
         x, y = self.resolution
