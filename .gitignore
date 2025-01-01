@@ -1,4 +1,4 @@
 /test
 /.mypy_cache
 poetry.lock
-/__pycache__
+__pycache__
